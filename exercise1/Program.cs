@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int LastNumber (int a){
+    return a % 10;
+}
+Console.WriteLine(LastNumber(152));
