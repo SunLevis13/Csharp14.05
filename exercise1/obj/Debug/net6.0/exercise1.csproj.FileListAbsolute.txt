@@ -1,0 +1,15 @@
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/bin/Debug/net6.0/exercise1
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/bin/Debug/net6.0/exercise1.deps.json
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/bin/Debug/net6.0/exercise1.runtimeconfig.json
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/bin/Debug/net6.0/exercise1.dll
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/bin/Debug/net6.0/exercise1.pdb
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.csproj.AssemblyReference.cache
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.AssemblyInfoInputs.cache
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.AssemblyInfo.cs
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.csproj.CoreCompileInputs.cache
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.dll
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/refint/exercise1.dll
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.pdb
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/exercise1.genruntimeconfig.cache
+/Users/dariazueva/Dropbox/Zueva/GB/C#/Seminar14.05_Cfunction/exercise1/obj/Debug/net6.0/ref/exercise1.dll
